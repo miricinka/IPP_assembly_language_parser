@@ -1,7 +1,7 @@
 # IPP
 Principy programovacích jazyků a OOP VUT FIT
 
-# Projekt - 1. úloha v PHP 7.4
+## Projekt - 1. úloha v PHP 7.4
 Procentuální hodnocení jednotlivých kategorií skriptu parse.php:
 Lexikální analýza: 97%
 Syntaktická analýza: 90%
